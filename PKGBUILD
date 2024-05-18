@@ -1,5 +1,5 @@
 pkgname=gaming-glyphs-git
-pkgver=1r.
+pkgver=1r3.daa4e15
 pkgrel=1
 pkgdesc="Funny gaming-related glyphs"
 arch=(any)
