@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Untitled4
-FullName: Untitled4
-FamilyName: Untitled4
+FontName: GamingGlyphs
+FullName: GamingGlyphs
+FamilyName: GamingGlyphs
 Weight: Regular
-Copyright: Copyright (c) 2022, Unknown
+Copyright: Copyright (c) 2022-2024, GregTheMadMonk
 UComments: "2022-11-24: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1669301070
-ModificationTime: 1716031275
+ModificationTime: 1731950541
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,6 +37,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
 DEI: 91125
 Encoding: Custom
 UnicodeInterp: none
@@ -45,6 +46,8 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WinInfo: 0 51 20
+BeginPrivate: 0
+EndPrivate
 BeginChars: 271 5
 
 StartChar: amogus
